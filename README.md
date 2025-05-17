@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Kalyani!
 
-<!--
-**heyitskalyani/heyitskalyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineering student who loves building cool stuff with code.  
+Currently learning frontend development and exploring real-world project ideas.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Interests:
+- HTML, CSS, Python (learning JavaScript & React!)
+- Interested in problem-solving and creative tech solutions
+- Passionate about growth, learning, and big dreams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Working On:
+- Building mini-projects to sharpen my frontend skills
+- Exploring UI/UX design and web development tools
+
+### ✨ A little about me:
+- Rainy days, green forests, and clean code bring me peace!
+- I believe in learning consistently, one step at a time
+
+Let’s connect and grow together!
